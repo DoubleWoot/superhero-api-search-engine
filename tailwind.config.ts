@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        skinRed: "#fa8072",
+      },
+      fontFamily: {
+        sans: ["Inter", "sans-serif"],
+        impact: ["Impact", "sans-serif"],
       },
     },
   },
